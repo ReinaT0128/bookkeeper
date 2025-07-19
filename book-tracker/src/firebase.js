@@ -7,13 +7,7 @@ import { getFirestore } from "firebase/firestore";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBKausYI1R-Ic-vp9ryRMPdh309mrmjQrA",
-  authDomain: "book-tracker-53897.firebaseapp.com",
-  projectId: "book-tracker-53897",
-  storageBucket: "book-tracker-53897.firebasestorage.app",
-  messagingSenderId: "311161573282",
-  appId: "1:311161573282:web:5cb4f2cd724dc2c807ecfb",
-  measurementId: "G-0RVGDKFP01"
+
 };
 
 // Initialize Firebase
